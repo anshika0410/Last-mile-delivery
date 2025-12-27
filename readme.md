@@ -169,7 +169,7 @@ Simulates a request to resend the OTP to the customer.
 *The app detects non-existent OTP.*
 <!-- Paste Screenshot Below -->
 <br>
-![WhatsApp Image 2025-12-28 at 12 02 28 AM](https://github.com/user-attachments/assets/bdbb434e-6763-4e24-a413-859a05640870)
+<img width="280" height="588" alt="Screenshot 2025-12-27 21513" src="https://github.com/user-attachments/assets/bdbb434e-6763-4e24-a413-859a05640870" />
 <br>
 
 ---
