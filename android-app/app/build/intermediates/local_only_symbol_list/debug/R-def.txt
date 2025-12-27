@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color error
+color primary
+color primary_dark
+color primary_light
+color secondary
+color surface
+color text_primary
+color text_secondary
+color white
+id btnConfirm
+id btnResendOtp
+id contentContainer
+id etOtp
+id etShipmentId
+id guideline
+id tvStatus
+id tvTitle
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.DeliveryApp

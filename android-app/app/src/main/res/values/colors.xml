@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors: Emerald Green Theme -->
+    <color name="primary">#059669</color> <!-- Emerald 600 -->
+    <color name="primary_dark">#047857</color> <!-- Emerald 700 -->
+    <color name="primary_light">#D1FAE5</color> <!-- Emerald 100 -->
+    
+    <!-- Accent Colors -->
+    <color name="secondary">#10B981</color> <!-- Emerald 500 -->
+    <color name="error">#EF4444</color>
+    
+    <!-- Neutrals -->
+    <color name="background">#F0FDF4</color> <!-- Green 50 (Very light tint) -->
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#064E3B</color> <!-- Emerald 900 (Dark Green Text) -->
+    <color name="text_secondary">#6EE7B7</color> <!-- Emerald 300 -->
+    
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

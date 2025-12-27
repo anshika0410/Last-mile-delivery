@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F0FDF4</color>
+    <color name="black">#000000</color>
+    <color name="error">#EF4444</color>
+    <color name="primary">#059669</color>
+    <color name="primary_dark">#047857</color>
+    <color name="primary_light">#D1FAE5</color>
+    <color name="secondary">#10B981</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#064E3B</color>
+    <color name="text_secondary">#6EE7B7</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Delivery App</string>
+    <style name="Theme.DeliveryApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
