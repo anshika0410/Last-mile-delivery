@@ -138,28 +138,37 @@ Simulates a request to resend the OTP to the customer.
 *The app turns GREEN and shows a success message when OTP is correct.*
 <!-- Paste Screenshot Below -->
 <br><br><br><br><br>
-[ PLACEHOLDER ]
+<img width="281" height="608" alt="Screenshot 2025-12-27 215004" src="https://github.com/user-attachments/assets/2a25cfab-40b2-46ec-8569-8029b382a779" />
 <br><br><br><br><br>
 
 ### 2. Resend OTP Logic
 *The app requests OTP, and the Backend Console logs the "SMS".*
 <!-- Paste Screenshot Below -->
 <br><br><br><br><br>
-[ PLACEHOLDER ]
+<img width="282" height="590" alt="Screenshot 2025-12-27 214911" src="https://github.com/user-attachments/assets/067f3c87-05d7-4b37-bcf0-2724ad6b5f18" />
+<img width="832" height="420" alt="Screenshot 2025-12-27 214932" src="https://github.com/user-attachments/assets/913a737d-8801-4333-b7fa-b8e21ccef09e" />
+
 <br><br><br><br><br>
 
 ### 3. Error Handling (Duplicate Delivery)
 *The app shows RED if the package was already marked 'Delivered'.*
 <!-- Paste Screenshot Below -->
 <br><br><br><br><br>
-[ PLACEHOLDER ]
+<img width="279" height="615" alt="Screenshot 2025-12-27 215019" src="https://github.com/user-attachments/assets/ff101a65-7eb0-411f-9505-59f4ad60b4fc" />
 <br><br><br><br><br>
 
 ### 4. Error Handling (Invalid Shipment)
 *The app detects non-existent IDs.*
 <!-- Paste Screenshot Below -->
 <br><br><br><br><br>
-[ PLACEHOLDER ]
+<img width="280" height="588" alt="Screenshot 2025-12-27 215133" src="https://github.com/user-attachments/assets/952a0ce0-1f3d-4019-a172-cbe302277169" />
+<br><br><br><br><br>
+
+### 5. Error Handling (Invalid OTP)
+*The app detects non-existent OTP.*
+<!-- Paste Screenshot Below -->
+<br><br><br><br><br>
+![WhatsApp Image 2025-12-28 at 12 02 28 AM](https://github.com/user-attachments/assets/bdbb434e-6763-4e24-a413-859a05640870)
 <br><br><br><br><br>
 
 ---
