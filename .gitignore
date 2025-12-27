@@ -11,3 +11,7 @@ Thumbs.db
 *.log
 .idea/
 *.iml
+
+# Node.js
+node_modules/
+.env
