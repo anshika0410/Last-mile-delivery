@@ -1,0 +1,13 @@
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Build Output for Java/Android
+/backend-service/target/
+/backend-service/build/
+/android-app/build/
+/android-app/.gradle/
+*.class
+*.log
+.idea/
+*.iml
