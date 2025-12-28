@@ -23,6 +23,10 @@ The project follows a strict **3-Tier Architecture**:
     *   **Technology**: Native Android (Java)
     *   **Role**: User-friendly mobile interface for Delivery Agents to input data and receive real-time feedback.
 
+## Architecture Diagram
+<img width="1026" height="606" alt="Screenshot 2025-12-28 090441" src="https://github.com/user-attachments/assets/578fdefd-9593-4885-894d-e692b5c198c2" />
+
+
 ---
 
 ## � Project Structure
@@ -133,6 +137,10 @@ Simulates a request to resend the OTP to the customer.
 ---
 
 ## 📸 Proof of Functionality
+
+## Video Walkthrough
+https://drive.google.com/file/d/1y6KBl-P6p1iGO1RxXnnOsJx9-cJ4eEwy/view?usp=sharing
+
 
 ### 1. Delivery Confirmed (Success)
 *The app turns GREEN and shows a success message when OTP is correct.*
